@@ -1,0 +1,3 @@
+for me perosnally, I would prefer using github desktop especially when the code doesn't have inside-git like Unreal Engine, or when git doesn't work locally
+Fixed a conflict issue in assignment01, that was a caused because I didn't rebase from my branch, as both me and my teammate made a pull request kidna at the same time
+This task is considered easier than the assignment as both of us will work on different files, so there's no possibility for a conflict to happen
